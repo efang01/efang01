@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @efang01
-- 🌱 I’m currently learning: R & Python
-- 📫 How to reach me: e979f379@ku.edu
-- 😄 Pronouns: He/Him/His
+- Hi, I’m @efang01
+- I’m currently learning: R & Python
+- How to reach me: e979f379@ku.edu
